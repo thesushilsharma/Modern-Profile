@@ -27,6 +27,8 @@ git clone https://github.com/thesushilsharma/Modern-Profile.git
 This project relies on the following dependencies:
 
 - [Tailwind CSS](https://tailwindcss.com) - A utility-first CSS framework for rapidly building custom designs.
+- [Simple Icons](https://simpleicons.org/) - A collection of SVG icons for popular brands.
+- [Tabler Icons](https://tabler-icons.io/) - A set of open-source SVG icons designed by Tabler Icons.
 
 ## License
 
